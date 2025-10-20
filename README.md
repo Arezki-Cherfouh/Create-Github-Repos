@@ -1,0 +1,1 @@
+Automates GitHub repo creation and content upload. Reads all folders in a local directory, generates repos using folder names, sets descriptions from README or defaults, initializes git, commits files, and pushes to GitHub — fully automating deployment of multiple projects.
